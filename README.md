@@ -12,6 +12,9 @@ QQ邮箱请跳转：https://gitee.com/dominic548/autocheck
 需要填写经纬度，可以通过百度的拾取坐标系统获取：[拾取坐标系统 (baidu.com)](https://api.map.baidu.com/lbsapi/getpoint/index.html)
 代码中的“xxx”部分都需要手动填入，若不知道填写什么，请跳转https://gitee.com/dominic548/autocheck
 本代码在@dominic548作者的基础上得来。
+
+
+```python
 from email import message
 import json
 import logging
