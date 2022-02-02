@@ -1,37 +1,15 @@
 # 我在校园定位签到
 
-#### 介绍
 我在校园定位签到，作者QQ:3350949546，欢迎交流。 本项目仅作为学习使用，禁止他用。感谢@dominic548的帮助，特别鸣谢。
+@dominic548地址：https://gitee.com/dominic548/autocheck
 
-#### 软件架构
-软件架构说明
+### 一、Fiddler 抓包
+具体抓包事项请跳转：https://gitee.com/dominic548/autocheck
+### 二、QQ邮箱
+QQ邮箱请跳转：https://gitee.com/dominic548/autocheck
+### 三、Python代码
+代码中直接会填入打卡的地址，所以代码正常运行后，即使人不在学校，打卡也会在学校，这时候就要留意会不会穿帮了。
+需要填写经纬度，可以通过百度的拾取坐标系统获取：[拾取坐标系统 (baidu.com)](https://api.map.baidu.com/lbsapi/getpoint/index.html)
+代码中的“xxx”部分都需要手动填入，若不知道填写什么，请跳转https://gitee.com/dominic548/autocheck
+本代码在@dominic548作者的基础上得来。
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
