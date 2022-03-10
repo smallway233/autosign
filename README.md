@@ -91,7 +91,7 @@
 #### 5.定位签到
 
 #### 1.定位签到1.0版本（需要抓包）
-```python
+#```python
 from email import message
 import json
 import logging
@@ -167,8 +167,8 @@ def main_handler(event, context):
         server.sendmail(sender, [user, ], msg.as_string())  # 发件人邮箱账号、收件人邮箱账号、发送邮件
         server.quit()  # 关闭连接
         return '打卡失败'
+#```python
 
-```python
 #### 2.定位签到2.0版本（打开公众号需要重新登陆）
 
 ```Python
@@ -288,7 +288,7 @@ def main_handler(event, context):
 if __name__ == "__main__":
     main_handler()
 
-```Python
+#```
 ### 四、腾讯云函数
 
 注册过程就不再赘述，注册完记得完成实名认证，这里给出腾讯云官网链接：[腾讯云(tencent.com)](https://cloud.tencent.com/)
