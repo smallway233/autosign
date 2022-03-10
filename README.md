@@ -7,8 +7,6 @@
 
 ​	**所有文件以及相关代码已在文件列表上传，下载即可使用**
 
-<img src="https://gitee.com/dominic548/picgo/raw/master/uTools/2022213-130940-1644728979852.png" alt="image-20220213130917422" style="zoom:67%;" />
-
 ### 一、Fiddler 抓包工具
 
 #### 1.安装和配置
@@ -170,6 +168,7 @@ def main_handler(event, context):
         server.quit()  # 关闭连接
         return '打卡失败'
 
+```python
 #### 2.定位签到2.0版本（打开公众号需要重新登陆）
 
 ```Python
@@ -289,6 +288,7 @@ def main_handler(event, context):
 if __name__ == "__main__":
     main_handler()
 
+```Python
 ### 四、腾讯云函数
 
 注册过程就不再赘述，注册完记得完成实名认证，这里给出腾讯云官网链接：[腾讯云(tencent.com)](https://cloud.tencent.com/)
