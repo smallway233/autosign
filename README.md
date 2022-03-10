@@ -1,6 +1,5 @@
 # 我在校园定位签到
-**友情提示：** 本文章及相关代码仅作为学习使用，使用者若以此进行盈利等，造成后果由使用者自负，均与作者无关。健康生活，认真打卡。作者[QQ 1097123142](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1097123142&website=www.oicqzone.com)，若学习过程中有相关疑问，欢迎交流。我在校园定位签到，作者QQ:1097123142，欢迎交流。 本项目仅作为学习使用，禁止营利，否则后果自负。感谢@dominic548的帮助，特别鸣谢。
-@dominic548地址：https://gitee.com/dominic548/autocheck
+**友情提示：** 本文章及相关代码仅作为学习使用，使用者若以此进行盈利等，造成后果由使用者自负，均与作者无关。健康生活，认真打卡。作者[QQ 1097123142](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1097123142&website=www.oicqzone.com)，若学习过程中有相关疑问，欢迎交流。感谢@dominic548（https://gitee.com/dominic548/autocheck）的帮助，特别鸣谢。
 
 ### 一、Fiddler 抓包
 具体抓包事项请跳转：https://gitee.com/dominic548/autocheck
