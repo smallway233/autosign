@@ -84,9 +84,9 @@
 <img src="https://gitee.com/dominic548/picgo/raw/master/uTools/2022213-132154-1644729713565.png" alt="3.1.1" style="zoom:67%;" />
 
 
-#### 5.定位签到
+#### 2.定位签到
 
-#### 1.定位签到1.0版本（需要抓包）
+#### (1).定位签到1.0版本（需要抓包）
 ```
 from email import message
 import json
@@ -165,7 +165,7 @@ def main_handler(event, context):
         return '打卡失败'
 ```
 
-#### 2.定位签到2.0版本（打开公众号需要重新登陆）
+#### (2).定位签到2.0版本（打开公众号需要重新登陆）
 
 ```
 import json
